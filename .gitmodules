@@ -4,3 +4,6 @@
 [submodule "AlgoTrading"]
 	path = AlgoTrading
 	url = https://github.com/SamBanerjee007/AlgoTrading
+[submodule "market_tech"]
+	path = market_tech
+	url = https://github.com/ab-cp/market_tech
