@@ -1,3 +1,6 @@
 [submodule "market_data_processor"]
 	path = market_data_processor
 	url = https://github.com/KamarajuKusumanchi/market_data_processor
+[submodule "AlgoTrading"]
+	path = AlgoTrading
+	url = https://github.com/SamBanerjee007/AlgoTrading
