@@ -7,3 +7,6 @@
 [submodule "market_tech"]
 	path = market_tech
 	url = https://github.com/ab-cp/market_tech
+[submodule "risk-metrics"]
+	path = risk-metrics
+	url = https://github.com/sean-mehra/risk-metrics.git
